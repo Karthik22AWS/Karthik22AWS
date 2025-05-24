@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### Hi there, I'm Karthik! 👋  - B.Tech CSE @ VR Siddhartha Engineering College - Passionate about Web Development, Cloud & DSA - Building projects and learning new technologies daily - Looking for high-growth opportunities & internships  **Skills:** C++, Java, HTML, CSS, Git, GitHub, Linux basics  > "Consistency beats talent when talent doesn’t work hard." ` 
 <!--
 **Karthik22AWS/Karthik22AWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
